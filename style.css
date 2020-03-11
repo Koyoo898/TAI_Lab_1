@@ -1,5 +1,5 @@
 body {
-    background-color: yellow;
+    background-color: burlywood;
 }
 li{
     display: inline;
@@ -9,5 +9,18 @@ form{
     margin-right:50px;
     margin-top: 50px;
 
+}
+.main-container{
+    padding: 10px;
+    margin: 10px auto;
+}
+.right-side{
+    text-align: center;
+}
+
+.side-bar-element{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 15px;
 }
 
