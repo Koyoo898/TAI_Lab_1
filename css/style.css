@@ -1,0 +1,57 @@
+body {
+    width: 100%;
+    font-size: 14px;
+    background-color: burlywood;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.correct {
+    background-color: #289a27;
+}
+
+.incorrect {
+    background-color: #c41a21;
+}
+
+.buttons {
+    padding: 10px 10px 10px 0;
+}
+form{
+    margin-left: 50px;
+    margin-right:50px;
+    margin-top: 50px;
+
+}
+.main-container{
+    padding: 10px;
+    margin: 10px auto;
+}
+.right-side{
+    text-align: center;
+}
+
+.side-bar-element{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 15px;
+}
+
+.stopka{
+    text-align: center;
+}
+
+.scroll {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    display: none;
+}
+
+
